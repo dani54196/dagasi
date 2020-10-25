@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/dagasi/static/css/main.5f361e03.chunk.css",
-    "main.js": "/dagasi/static/js/main.9129c222.chunk.js",
-    "main.js.map": "/dagasi/static/js/main.9129c222.chunk.js.map",
+    "main.css": "/dagasi/static/css/main.36497136.chunk.css",
+    "main.js": "/dagasi/static/js/main.2efea3f7.chunk.js",
+    "main.js.map": "/dagasi/static/js/main.2efea3f7.chunk.js.map",
     "runtime-main.js": "/dagasi/static/js/runtime-main.69143f9e.js",
     "runtime-main.js.map": "/dagasi/static/js/runtime-main.69143f9e.js.map",
-    "static/js/2.e33610c2.chunk.js": "/dagasi/static/js/2.e33610c2.chunk.js",
-    "static/js/2.e33610c2.chunk.js.map": "/dagasi/static/js/2.e33610c2.chunk.js.map",
+    "static/js/2.e2efa5b1.chunk.js": "/dagasi/static/js/2.e2efa5b1.chunk.js",
+    "static/js/2.e2efa5b1.chunk.js.map": "/dagasi/static/js/2.e2efa5b1.chunk.js.map",
     "index.html": "/dagasi/index.html",
-    "precache-manifest.780abfe0e32df3e638f4c46e99a71c60.js": "/dagasi/precache-manifest.780abfe0e32df3e638f4c46e99a71c60.js",
+    "precache-manifest.bf5dbb102a6608ddc1d69c87aeb3f254.js": "/dagasi/precache-manifest.bf5dbb102a6608ddc1d69c87aeb3f254.js",
     "service-worker.js": "/dagasi/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/dagasi/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e33610c2.chunk.js.LICENSE.txt": "/dagasi/static/js/2.e33610c2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/dagasi/static/media/logo.5d5d9eef.svg"
+    "static/css/main.36497136.chunk.css.map": "/dagasi/static/css/main.36497136.chunk.css.map",
+    "static/js/2.e2efa5b1.chunk.js.LICENSE.txt": "/dagasi/static/js/2.e2efa5b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.69143f9e.js",
-    "static/js/2.e33610c2.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9129c222.chunk.js"
+    "static/js/2.e2efa5b1.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.2efea3f7.chunk.js"
   ]
 }
